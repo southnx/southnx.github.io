@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Publications"
+title: "Chain-of-Look Prompting for Verb-centric Surgical Triplet Recognition in Endoscopic Videos"
 permalink: /publications/
-author_profile: true
+author_profile: Nan Xi, Jingjing Meng, Junsong Yuan
 ---
 
 {% if author.googlescholar %}
