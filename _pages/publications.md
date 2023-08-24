@@ -1,4 +1,9 @@
-
+---
+layout: archive
+title: "Plublication"
+permalink: /publications/
+author_profile: authors
+---
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
