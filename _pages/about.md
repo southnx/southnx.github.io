@@ -12,4 +12,4 @@ I am a fourth-year Ph.D. student of Computer Science and Engineering at Universi
 
 Previous to UB, I obtained my M.D. in Radiology from Peking University, where I was initially trained as a physician. I latter fond myself more interested in utilizing quantitative approaches to solve biomedical problems that could not be tackled through purely traditional biomedical approaches. 
 
-**Contact** nanxi [at] buffalo dot edu
+**Contact**: nanxi [at] buffalo dot edu
