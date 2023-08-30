@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: authors
 ---
 
-(* equal contribution)
+(* Equal contribution)
 
 - **Nan Xi**, Jingjing Meng, Junsong Yuan. “Chain-of-Look Prompting for Verb-centric Surgical Triplet Recognition in Endoscopic Videos”, in Proc. ACM International Conf. on Multimedia (ACM MM), 2023
 
