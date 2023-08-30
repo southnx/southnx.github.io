@@ -1,3 +1,13 @@
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 - **Nan Xi**, Jingjing Meng, Junsong Yuan, “Chain-of-Look Prompting for Verb-centric Surgical Triplet Recognition in Endoscopic Videos”, in Proc. ACM International Conf. on Multimedia (ACM MM), 2023
 
 - **Nan Xi**, Jingjing Meng, Junsong Yuan, “Open Set Video HOI detection from Action- centric Chain-of-Look Prompting”. in Proceedings of the IEEE International Confer- ence on Computer Vision (ICCV), 2023
