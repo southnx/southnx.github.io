@@ -4,7 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: authors
 redirect_from: 
-  - /news/
+  - /resume
 ---
 
 - July 2023: One paper is accepted to ACM MM 2023!
