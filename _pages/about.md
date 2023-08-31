@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student of Computer Science and Engineering at University at Buffalo. My supervisor is Prof. [Junsong Yuan](https://cse.buffalo.edu/~jsyuan/index.html). My major research interest lie in taeching machine to understand visual world events and harness these capabilities to enhance medical practices for optimal healthcare provision. Specificaly, I worked on vision-language understanding, video human-object interactions and surgical scene understanding. 
-
-Prior to UB, I obtained my M.D. in Radiology from Peking University, where I was initially trained as a physician. I later fond myself more interested in utilizing quantitative approaches to solve biomedical problems that could not be tackled through purely traditional biomedical approaches. 
+I am a fourth-year Ph.D. student of Computer Science and Engineering at University at Buffalo. My supervisor is Prof. [Junsong Yuan](https://cse.buffalo.edu/~jsyuan/index.html). Prior to UB, I obtained my M.D. in Radiology from Peking University, where I was initially trained as a physician. My major research interest lie in taeching machine to understand visual world events and harness these capabilities to enhance medical practices for optimal healthcare provision. Specificaly, I currently work on vision-language understanding, video human-object interaction detection and surgical scene understanding. 
 
 **Contact**: nanxi [at] buffalo dot edu
 
