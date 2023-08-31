@@ -26,4 +26,4 @@ Prior to UB, I obtained my M.D. in Radiology from Peking University, where I was
 
 > 1. <font color='red'>[*New*]</font> **Nan Xi**, Jingjing Meng, Junsong Yuan. “Chain-of-Look Prompting for Verb-centric Surgical Triplet Recognition in Endoscopic Videos”, in Proc. ACM International Conf. on Multimedia (ACM MM), 2023
 >
-> 2. <font color='red'>[*New*]</font> **Nan Xi**, Jingjing Meng, Junsong Yuan. “Forest Graph Convolution Network for Sur- gical Action Triplets Recognition in Endoscopic Videos”, in IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2022
+> 2. **Nan Xi**, Jingjing Meng, Junsong Yuan. “Forest Graph Convolution Network for Sur- gical Action Triplets Recognition in Endoscopic Videos”, in IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2022
