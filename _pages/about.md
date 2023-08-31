@@ -19,7 +19,7 @@ Prior to UB, I obtained my M.D. in Radiology from Peking University, where I was
 
 ## Video Huamn-Object Interaction Detection
 
-> 1. <font color='red'>[*New*]</font> **Nan Xi**, Jingjing Meng, Junsong Yuan. “Open Set Video HOI detection from Action- centric Chain-of-Look Prompting”. in Proceedings of the IEEE International Confer- ence on Computer Vision (ICCV), 2023
+> 1. <font color='red'>[*New*]</font> **Nan Xi**, Jingjing Meng, Junsong Yuan. “Open Set Video HOI detection from Action- centric Chain-of-Look Prompting”. in Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2023
 
 
 ## Surgical Scene Understanding
