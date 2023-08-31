@@ -30,5 +30,3 @@ There is one logistical issue with a ready-to-fork template theme like academic 
 
 To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
 
-
-<a href='https://clustrmaps.com/site/1bwbg'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=f1f0fa&w=268&t=m&d=W-D38kUVEZ8iWc5P8EY8fmqxRnXiNOUuqt-63erZfXA&co=2d78ad&ct=f7f0f0'/></a>
