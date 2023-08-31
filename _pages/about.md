@@ -17,7 +17,7 @@ Prior to UB, I obtained my M.D. in Radiology from Peking University, where I was
 
 # Research Interest and Highlights
 
-## Video Huamn-Object Interaction Detection
+## Video Human-Object Interaction Detection
 
 > 1. <font color='red'>[*New*]</font> **Nan Xi**, Jingjing Meng, Junsong Yuan. “Open Set Video HOI detection from Action- centric Chain-of-Look Prompting”. in Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2023
 
