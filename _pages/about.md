@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student of Computer Science and Engineering at University at Buffalo. I am fortunate to be supervised by Prof. [Junsong Yuan](https://cse.buffalo.edu/~jsyuan/index.html). Prior to UB, I obtained my M.D. degree in oncology, where I was initially trained as a physician. My current research interest lies in vision-language learning and visual reasoning. On the medical domain, my goal is to empower AI systems with the ability of vsual reasoning akin to human experts. 
+I am a final year Ph.D. student of Computer Science and Engineering at University at Buffalo. I am fortunate to be supervised by Prof. [Junsong Yuan](https://cse.buffalo.edu/~jsyuan/index.html). Prior to UB, I obtained my M.D. degree in oncology, where I was initially trained as a physician. My current research interest lies in vision-language learning and visual reasoning. In the medical domain, my ultimate goal is to empower medical AI systems with the ability of visual reasoning akin to human experts. 
 
 **Contact**: nanxi [at] buffalo dot edu
 
