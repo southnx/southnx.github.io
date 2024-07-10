@@ -7,7 +7,7 @@ author_profile: authors
 
 (* Equal contribution; $\dagger$ Corresponding author) 
 
-- Yisong Wang*, **Nan Xi** $^ \*$ $^ \dagger$, Jingjing Meng, Junsong Yuan. “`Interaction-centric Spatio-Temporal Context Reasoning for Multi-person Video HOI Recognition”. in European Conference on Computer Vision (ECCV), 2024 
+- Yisong Wang $\*$, **Nan Xi** $^ \*$ $^ \dagger$, Jingjing Meng, Junsong Yuan. “`Interaction-centric Spatio-Temporal Context Reasoning for Multi-person Video HOI Recognition”. in European Conference on Computer Vision (ECCV), 2024 
 
 - **Nan Xi**, Jingjing Meng, Junsong Yuan. “Chain-of-Look Prompting for Verb-centric Surgical Triplet Recognition in Endoscopic Videos”, in Proc. ACM International Conf. on Multimedia (ACM MM), 2023
 
