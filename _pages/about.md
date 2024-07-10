@@ -15,7 +15,7 @@ I am a final year Ph.D. student of Computer Science and Engineering at Universit
 
 # Research Interest and Highlights
 
-## Video Human-Object Interaction 
+## Video Human-Object Interaction  
 
 > 1. <font color='red'>[*New*]</font> Yisong Wang*, **Nan Xi** $^ \*$ $^ \dagger$, Jingjing Meng, Junsong Yuan. “`Interaction-centric Spatio-Temporal Context Reasoning for Multi-person Video HOI Recognition”. in European Conference on Computer Vision (ECCV), 2024 (* Equal contricution; $\dagger$ Corresponding author) 
 >
