@@ -17,7 +17,7 @@ I am a final year Ph.D. student of Computer Science and Engineering at Universit
 
 ## Video Human-Object Interaction  
 
-> 1. <font color='red'>[*New*]</font> Yisong Wang*, **Nan Xi** $^ \*$ $^ \dagger$, Jingjing Meng, Junsong Yuan. “`Interaction-centric Spatio-Temporal Context Reasoning for Multi-person Video HOI Recognition”. in European Conference on Computer Vision (ECCV), 2024 (* Equal contricution; $\dagger$ Corresponding author) 
+> 1. <font color='red'>[**New**]</font> Yisong Wang $^ \*$, **Nan Xi** $^ \*$ $^ \dagger$, Jingjing Meng, Junsong Yuan. “`Interaction-centric Spatio-Temporal Context Reasoning for Multi-person Video HOI Recognition”. in European Conference on Computer Vision (ECCV), 2024 (* Equal contricution; $\dagger$ Corresponding author) 
 >
 > 2. **Nan Xi**, Jingjing Meng, Junsong Yuan. “Open Set Video HOI detection from Action- centric Chain-of-Look Prompting”. in Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2023
 
