@@ -15,13 +15,15 @@ I am a final year Ph.D. student of Computer Science and Engineering at Universit
 
 # Research Interest and Highlights
 
-## Video Human-Object Interaction Detection
+## Video Human-Object Interaction 
 
-> 1. <font color='red'>[*New*]</font> **Nan Xi**, Jingjing Meng, Junsong Yuan. “Open Set Video HOI detection from Action- centric Chain-of-Look Prompting”. in Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2023
+> 1. <font color='red'>[*New*]</font> Yisong Wang*, **Nan Xi** $^ \*$ $^ \dagger$, Jingjing Meng, Junsong Yuan. “`Interaction-centric Spatio-Temporal Context Reasoning for Multi-person Video HOI Recognition”. in European Conference on Computer Vision (ECCV), 2024 (* Equal contricution; $\dagger$ Corresponding author)
+>
+> 2. **Nan Xi**, Jingjing Meng, Junsong Yuan. “Open Set Video HOI detection from Action- centric Chain-of-Look Prompting”. in Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2023
 
 
 ## Surgical Scene Understanding
 
-> 1. <font color='red'>[*New*]</font> **Nan Xi**, Jingjing Meng, Junsong Yuan. “Chain-of-Look Prompting for Verb-centric Surgical Triplet Recognition in Endoscopic Videos”, in Proc. ACM International Conf. on Multimedia (ACM MM), 2023
+> 1. **Nan Xi**, Jingjing Meng, Junsong Yuan. “Chain-of-Look Prompting for Verb-centric Surgical Triplet Recognition in Endoscopic Videos”, in Proc. ACM International Conf. on Multimedia (ACM MM), 2023
 >
 > 2. **Nan Xi**, Jingjing Meng, Junsong Yuan. “Forest Graph Convolution Network for Sur- gical Action Triplets Recognition in Endoscopic Videos”, in IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2022
