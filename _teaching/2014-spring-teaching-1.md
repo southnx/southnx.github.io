@@ -4,8 +4,8 @@ collection: teaching
 
 ---
 
-• CSE 573 (Fall 2021) Computer Vision and Image Processing  2021.8.-2021.12. 
+• CSE 573 (Fall 2021) Computer Vision and Image Processing  
 
-• CSE 191 (Spring 2022) Discrete Structures                 2022.2.-2022.5. 
+• CSE 191 (Spring 2022) Discrete Structures                 
 
-• CSE 573 (Fall 2022) Computer Vision and Image Processing  2022.8.-2022.12.
+• CSE 573 (Fall 2022) Computer Vision and Image Processing  
