@@ -1,20 +1,8 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+• CSE 573 (Fall 2021) Computer Vision and Image Processing  2021.8.-2021.12. 
+• CSE 191 (Spring 2022) Discrete Structures                 2022.2.-2022.5.
+• CSE 573 (Fall 2022) Computer Vision and Image Processing  2022.8.-2022.12.
