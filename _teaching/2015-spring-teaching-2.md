@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Mentoring"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Yisong Wang (B.S. Computer Science, Peking University -> M.S. Computer Science, ETH Zurich)
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+With a publication “Interaction-centric Spatio-Temporal Context Reasoning for Multi-person Video HOI Recognition” on ECCV 2024
