@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "News"
-permalink: /news/
+title: "Teaching&Mentoring"
+permalink: /teaching/
 author_profile: authors
 redirect_from: 
   - /resume
