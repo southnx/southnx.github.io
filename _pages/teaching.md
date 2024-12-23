@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: authors
 redirect_from: 
   - /resume
+---
 
 **Teaching Assistant**
 - CSE 573 (Fall 2021) Computer Vision and Image Processing
