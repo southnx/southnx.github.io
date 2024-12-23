@@ -13,5 +13,5 @@ redirect_from:
 - CSE 573 (Fall 2022) Computer Vision and Image Processing
 
 **Mentoring**
---Yisong Wang (B.S. Computer Science, Peking University --> ETH Zurich)  
+- Yisong Wang (B.S. Computer Science, Peking University --> ETH Zurich)  
   With a publication “Interaction-centric Spatio-Temporal Context Reasoning for Multi-person Video HOI Recognition” on ECCV 2024
