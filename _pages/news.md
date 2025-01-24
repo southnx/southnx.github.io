@@ -6,6 +6,8 @@ author_profile: authors
 redirect_from: 
   - /resume
 ---
+- January 2025: One paper is accepted to WWW 2025!
+  
 - July 2024: One paper is accepted to ECCV 2024!   
 
 - February 2024: I'll start a resrach internship at Amazon this summer!
