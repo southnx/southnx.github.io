@@ -7,6 +7,8 @@ author_profile: authors
 
 ($\*$ Equal contribution; $\dagger$ Corresponding author) 
 
+- **Nan Xi**, Jingjing Meng, Yietian Chen, Chaosheng Dong, Yan Gao, Yi Sun, Junsong Yuan. “Generative Prompting for Complex Product Retrieval”. in Proceedings of the ACM on Web Conference (WWW), 2025
+
 - Yisong Wang $^ \*$, **Nan Xi** $^ \*$ $^ \dagger$, Jingjing Meng, Junsong Yuan. “`Interaction-centric Spatio-Temporal Context Reasoning for Multi-person Video HOI Recognition”. in European Conference on Computer Vision (ECCV), 2024 
 
 - **Nan Xi**, Jingjing Meng, Junsong Yuan. “Chain-of-Look Prompting for Verb-centric Surgical Triplet Recognition in Endoscopic Videos”, in Proc. ACM International Conf. on Multimedia (ACM MM), 2023
