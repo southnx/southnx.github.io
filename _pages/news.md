@@ -6,7 +6,7 @@ author_profile: authors
 redirect_from: 
   - /resume
 ---
-- January 2025: One paper is accepted to WWW 2025! 
+- January 2025: One paper is accepted to WWW 2025 ! 
   
 - July 2024: One paper is accepted to ECCV 2024!   
 
