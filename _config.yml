@@ -85,8 +85,8 @@ author:
   bio              : "Computer Vision, Pattern Recognition, Medical Imaging"
   location         : "Buffalo, New York"
   employer         : "University at Buffalo"
-  pubmed           : #"https://scholar.google.com.hk/citations?hl=en&user=QLh4qlYAAAAJ"
-  googlescholar    : "https://scholar.google.com.hk/citations?hl=en&user=QLh4qlYAAAAJ"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com.hk/citations?user=QLh4qlYAAAAJ&hl=en&oi=ao"
   email            : "nanxi [at] buffalo [dot] edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
