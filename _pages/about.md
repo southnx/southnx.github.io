@@ -40,6 +40,7 @@ I obtained Ph.D. in Computer Science and Engineering at University at Buffalo in
 
 - June 2023: One paper is accepted to MICCAI 2023.
 
-
+## Contact
+Email: nanxi [at] buffalo [dot] edu 
 
 
