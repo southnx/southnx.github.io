@@ -16,7 +16,7 @@ In addressing this essential question, I focus on harnessing visual and language
   
 - *Tree-of-Looks (ToLs)* visual reasoning for free-form surgical workflow analysis and surgical/sports action quality assessment: [[Tree-of-Looks Spatio-Temporal Context Reasoning]](https://cse.buffalo.edu/~jsyuan/papers/2024/ECCV2024_Nan_Xi.pdf)
 
-I obtained Ph.D. in Computer Science and Engineering at University at Buffalo in June 2025, where I am very fortunate to be supervised by Prof. [Junsong Yuan](https://cse.buffalo.edu/~jsyuan/index.html). Prior to that, I obtained my M.D. degree in oncology, where I was initially trained as an internal oncologist. 
+I obtained Ph.D. in Computer Science and Engineering at University at Buffalo in June 2025, where I am very fortunate to be supervised by Prof. [Junsong Yuan](https://cse.buffalo.edu/~jsyuan/index.html). 
 
 ## News
 
