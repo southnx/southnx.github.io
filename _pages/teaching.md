@@ -15,3 +15,9 @@ redirect_from:
 **Mentoring**
 - Yisong Wang (B.S. Computer Science, Peking University --> M.S. Computer Science, ETH Zurich)  
   With a publication “Interaction-centric Spatio-Temporal Context Reasoning for Multi-person Video HOI Recognition” on ECCV 2024
+
+- Xirui Teng (B.S. Computer Science, Beijing Jiaotong University)
+  With two paper submissions on video reasoning to AAAI 2026
+
+- Rishikesh Bhyri (M.S. Computer Science, University at Buffalo)
+  With one paper submission on spatial visual reasoning to WACV 2026
