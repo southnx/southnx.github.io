@@ -9,9 +9,9 @@ author_profile: authors
 
 - Mahesh Bhosale, Abdul Wasi, Yuanhao Zhai, Yunjie Tian, Samuel Border, **Nan Xi**, Pinaki Sarder, Junsong Yuan, David Doermann, Xuan Gong, *“PathDiff: Histopathology Image Synthesis with Unpaired Text and Mask Conditions”*, in Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2025 [[paper]](https://arxiv.org/pdf/2506.23440)  [[code]](https://github.com/bhosalems/PathDiff?tab=readme-ov-file)
 
-- **Nan Xi**, Jingjing Meng, Yietian Chen, Chaosheng Dong, Yan Gao, Yi Sun, Junsong Yuan. *“Generative Prompting for Complex Product Retrieval”*, in Proceedings of the ACM on Web Conference (WWW), 2025 [[paper]](https://dl.acm.org/doi/abs/10.1145/3701716.3715546)
+- **Nan Xi**, Jingjing Meng, Yietian Chen, Chaosheng Dong, Yan Gao, Yi Sun, Junsong Yuan. *“Generative Prompting for Complex Product Retrieval”*, in Proceedings of the ACM on Web Conference (WWW), 2025 [[paper]](https://dl.acm.org/doi/abs/10.1145/3701716.3715546) [[code]](https://dl.acm.org/doi/abs/10.1145/3701716.3715546)
 
-- Sihan Zhao, Zixuan Wang, Tianyu Luan, Jia Jia, Wentao Zhu, Jiebo Luo, Junsong Yuan, **Nan Xi**, *“PP-Motion: Physical-Perceptual Fidelity Evaluation for Human Motion Generation”*, in Proc. ACM International Conf. on Multimedia (ACM MM), 2025 [[paper]](https://arxiv.org/pdf/2508.08179?)
+- Sihan Zhao, Zixuan Wang, Tianyu Luan, Jia Jia, Wentao Zhu, Jiebo Luo, Junsong Yuan, **Nan Xi**, *“PP-Motion: Physical-Perceptual Fidelity Evaluation for Human Motion Generation”*, in Proc. ACM International Conf. on Multimedia (ACM MM), 2025 [[paper]](https://arxiv.org/pdf/2508.08179?)  [[code]](https://arxiv.org/pdf/2508.08179?)
 
 - Luyuan Xie, Tianyu Luan, Wenyuan Cai, Guochen Yan, Zhaoyu Chen, **Nan Xi**, Yuejian Fang, Qingni Shen, Zhonghai Wu, Junsong Yuan, *“dFLMoE: Decentralized Federated Learning via Mixture of Experts for Medical Data Analysis”*, in Proceedings of Computer Vision and Pattern Recognition (CVPR), 2025 [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Xie_dFLMoE_Decentralized_Federated_Learning_via_Mixture_of_Experts_for_Medical_CVPR_2025_paper.pdf) [[code]](https://openaccess.thecvf.com/content/CVPR2025/papers/Xie_dFLMoE_Decentralized_Federated_Learning_via_Mixture_of_Experts_for_Medical_CVPR_2025_paper.pdf)
 
