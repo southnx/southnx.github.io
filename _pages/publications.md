@@ -5,9 +5,13 @@ permalink: /publications/
 author_profile: authors
 ---
 
-($\*$ Equal contribution; $\dagger$ Corresponding author) 
+($$\*$$ Equal contribution; $$\dagger$$ Corresponding author) 
+
+- Mahesh Bhosale, Abdul Wasi, Yuanhao Zhai, Yunjie Tian, Samuel Border, **Nan Xi**, Pinaki Sarder, Junsong Yuan, David Doermann, Xuan Gong, “PathDiff: Histopathology Image Synthesis with Unpaired Text and Mask Conditions”, in Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2025
 
 - **Nan Xi**, Jingjing Meng, Yietian Chen, Chaosheng Dong, Yan Gao, Yi Sun, Junsong Yuan. “Generative Prompting for Complex Product Retrieval”, in Proceedings of the ACM on Web Conference (WWW), 2025
+
+- Sihan Zhao, Zixuan Wang, Tianyu Luan, Jia Jia, Wentao Zhu, Jiebo Luo, Junsong Yuan, **Nan Xi**, “PP-Motion: Physical-Perceptual Fidelity Evaluation for Human Motion Generation”, in Proc. ACM International Conf. on Multimedia (ACM MM), 2025
 
 - Luyuan Xie, Tianyu Luan, Wenyuan Cai, Guochen Yan, Zhaoyu Chen, **Nan Xi**, Yuejian Fang, Qingni Shen, Zhonghai Wu, Junsong Yuan, “dFLMoE: Decentral-
 ized Federated Learning via Mixture of Experts for Medical Data Analysis”, in Proceedings of Computer Vision and Pattern Recognition (CVPR), 2025
