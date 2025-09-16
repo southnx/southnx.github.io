@@ -26,5 +26,3 @@ author_profile: authors
 - **Nan Xi**, Jingjing Meng, Junsong Yuan. *“Forest Graph Convolution Network for Surgical Action Triplets Recognition in Endoscopic Videos”*, in IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2022 [[paper]](https://ieeexplore.ieee.org/ielaam/76/9973795/9831997-aam.pdf) 
 
 - Hanyu Li $$^ *$$, Sabrina Racine Brzostek $$^ *$$, **Nan Xi** $$^ *$$, Jiwen Luo, Zhen Zhao, Junsong Yuan. *“Learning to Detect Monoclonal Protein in Electrophoresis Images”*, in IEEE International Conference on Visual Communications and Image Processing (VCIP), 2021  [[paper]](https://ieeexplore.ieee.org/abstract/document/9675332) 
-
-- **Nan Xi**. *“Semi-supervised Attentive Mutual-info Generative Adversarial Network for Brain Tumor Segmentation”*, in Proceedings of the 34th International Conference on Image and Vision Computing New Zealand (IVCNZ), 2019  [[paper]](https://ieeexplore.ieee.org/abstract/document/8961008)
