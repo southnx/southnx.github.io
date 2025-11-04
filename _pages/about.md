@@ -19,6 +19,7 @@ In addressing this essential question, I focus on harnessing visual and language
 I obtained Ph.D. in Computer Science and Engineering at University at Buffalo in June 2025, where I am very fortunate to be supervised by Prof. [Junsong Yuan](https://cse.buffalo.edu/~jsyuan/index.html). 
 
 ## News
+- December 2025: One paper is accepted to NeurIPS 2025 Workshop on Efficient Reasoning.
 
 - June 2025: One paper is accepted to ACM MM 2025.
 
@@ -41,6 +42,6 @@ I obtained Ph.D. in Computer Science and Engineering at University at Buffalo in
 - June 2023: One paper is accepted to MICCAI 2023.
 
 ## Contact
-Email: nanxi [at] buffalo [dot] edu 
+Email: nanxi09south [at] gmail [dot] com 
 
 
