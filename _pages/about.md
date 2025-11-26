@@ -16,9 +16,11 @@ In addressing this essential question, I focus on harnessing visual and language
   
 - *Tree-of-Looks (ToLs)* visual reasoning for surgical workflow analysis and surgical skill assessment: [[Tree-of-Looks Spatio-Temporal Context Reasoning]](https://cse.buffalo.edu/~jsyuan/papers/2024/ECCV2024_Nan_Xi.pdf)
 
-I obtained Ph.D. in Computer Science and Engineering at University at Buffalo in June 2025, where I am very fortunate to be supervised by Prof. [Junsong Yuan](https://cse.buffalo.edu/~jsyuan/index.html). 
+I obtained Ph.D. in Computer Science and Engineering at University at Buffalo in June 2025, where I am very fortunate to be supervised by Prof. [Junsong Yuan](https://cse.buffalo.edu/~jsyuan/index.html). Prior to that, I obtained M.D. in Radiation Oncology and was trained as a Physician Scientist in Molecular Oncology at Peking University. 
 
 ## News
+- November 2025: One paper on visual reasoning is accepted to WACV 2026. 
+
 - October 2025: One paper is accepted to NeurIPS 2025 Workshop on Efficient Reasoning.
 
 - June 2025: One paper is accepted to ACM MM 2025.
