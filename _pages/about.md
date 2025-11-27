@@ -21,8 +21,6 @@ I obtained Ph.D. in Computer Science and Engineering at University at Buffalo (U
 ## News
 - November 2025: One paper on visual reasoning is accepted to WACV 2026. 
 
-- October 2025: One paper is accepted to NeurIPS 2025 Workshop on Efficient Reasoning.
-
 - June 2025: One paper is accepted to ACM MM 2025.
 
 - February 2025: One paper is accepted to ICCV 2025.
