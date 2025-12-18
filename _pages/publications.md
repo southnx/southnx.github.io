@@ -7,7 +7,7 @@ author_profile: authors
 
 ($$*$$ Equal contribution; $$\dagger$$ Corresponding author) 
 
-- Rishikesh Bhyri, Brian R Quaranto, Junsong Yuan, Peter C W Kim $$^ *$$ $$^ \dagger$, **Nan Xi** $$^ *$$ $$^ \dagger$, ``Chain-of-Look Spatial Reasoning for Dense Surgical Instrument Counting'', in {\sl Proceedings of the IEEE/CVF winter conference on applications of computer vision (WACV),} 2026 
+- Rishikesh Bhyri, Brian R Quaranto, Junsong Yuan, Peter C W Kim $$^ *$$ $$^ \dagger$$, **Nan Xi** $$^ *$$ $$^ \dagger$$, ``Chain-of-Look Spatial Reasoning for Dense Surgical Instrument Counting'', in {\sl Proceedings of the IEEE/CVF winter conference on applications of computer vision (WACV),} 2026 
 
 - Mahesh Bhosale, Abdul Wasi, Yuanhao Zhai, Yunjie Tian, Samuel Border, **Nan Xi**, Pinaki Sarder, Junsong Yuan, David Doermann, Xuan Gong, *“PathDiff: Histopathology Image Synthesis with Unpaired Text and Mask Conditions”*, in Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2025 [[paper]](https://arxiv.org/pdf/2506.23440)  [[code]](https://github.com/bhosalems/PathDiff?tab=readme-ov-file)
 
