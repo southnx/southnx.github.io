@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Homepage"
+title                    : "Nan Xi"
 title_separator          : "-"
 name                     : &name "Nan Xi"
 description              : &description "personal description"
