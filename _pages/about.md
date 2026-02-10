@@ -18,10 +18,10 @@ In addressing this essential question, I focus on harnessing visual and language
 
 I obtained Ph.D. in Computer Science and Engineering at University at Buffalo (UB) in 2025, where I am very fortunate work with Prof. [Junsong Yuan](https://cse.buffalo.edu/~jsyuan/index.html). Prior to UB, I obtained M.D. in Oncology and was trained as a physician-scientist in Molecular Oncology at Peking University. 
 
-<span style="color: red;">* I'm always looking for self-motivated Ph.D./Masters/Undergraduates to join my group. If you're interested in working with my, please reach out to me via email. *</span>
+<span style="color: red;">* I'm always looking for self-motivated Ph.D./Masters/Undergraduates to join my group. If you're interested in working with my, please reach out via email. *</span>
 
 ## News
-- January 2026: I joined VCU Department of Computer Science as Assistant Professor. 
+- January 2026: I join VCU Department of Computer Science as Assistant Professor. 
 
 - November 2025: One paper on visual reasoning is accepted to WACV 2026. 
 
