@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher in Computer Vision and Medical AI. My research focuses on empowering AI systems with the ability of visual reasoning akin to
+I am a tenure-track Assistant Professor in the [[Department of Computer Science]](https://egr.vcu.edu/departments/computer-science/) at [[Virginia Commonwealth University]](https://www.vcu.edu).  My research focus on Computer Vision and Medical AI. Specifically, I work on empowering AI systems with the ability of visual reasoning akin to
 human (experts), with the goal of enhancing both the *reliability* and *usability* of these AI models, especially in medicine and healthcare applications. The essential question at the heart of my research is: *How do we effectively leverage human insights and expertise knowledge to improve the reliability and usability of AI models?* 
 
 In addressing this essential question, I focus on harnessing visual and language information to enhance the learning of visual reasoning in intelligence systems.  My current research applies this approach to several key areas of visual reasoning, including: 
@@ -16,9 +16,11 @@ In addressing this essential question, I focus on harnessing visual and language
   
 - *Tree-of-Looks (ToLs)* visual reasoning for surgical workflow analysis and surgical skill assessment: [[Tree-of-Looks Spatio-Temporal Context Reasoning]](https://cse.buffalo.edu/~jsyuan/papers/2024/ECCV2024_Nan_Xi.pdf)
 
-I obtained Ph.D. in Computer Science and Engineering at University at Buffalo (UB) in June 2025, where I am very fortunate work with Prof. [Junsong Yuan](https://cse.buffalo.edu/~jsyuan/index.html). Prior to UB, I obtained M.D. in Oncology and was trained as a physician-scientist in Molecular Oncology at Peking University. 
+I obtained Ph.D. in Computer Science and Engineering at University at Buffalo (UB) in 2025, where I am very fortunate work with Prof. [Junsong Yuan](https://cse.buffalo.edu/~jsyuan/index.html). Prior to UB, I obtained M.D. in Oncology and was trained as a physician-scientist in Molecular Oncology at Peking University. 
 
 ## News
+- January 2026: I joined VCU Department of Computer Science as Assistant Professor. 
+
 - November 2025: One paper on visual reasoning is accepted to WACV 2026. 
 
 - June 2025: One paper is accepted to ACM MM 2025.
