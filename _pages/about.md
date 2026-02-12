@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am a tenure-track Assistant Professor in the [Department of Computer Science](https://egr.vcu.edu/departments/computer-science/) at [Virginia Commonwealth University](https://www.vcu.edu).  My research focus on Computer Vision and Medical AI. Specifically, I work on empowering AI systems with the ability of visual reasoning akin to
-human (experts), with the goal of enhancing both the *reliability* and *usability* of these AI models, especially in medicine and healthcare applications. The essential question at the heart of my research is: *How do we effectively leverage human insights and expertise knowledge to improve the reliability and usability of AI models?* 
+human (experts), with the goal of enhancing both the *reliability* and *usability* of these AI models, especially in medicine and health applications. The essential question at the heart of my research is: *How do we effectively leverage human insights and expertise knowledge to improve the reliability and usability of AI models?* 
 
 In addressing this essential question, I focus on harnessing visual and language information to enhance the learning of visual reasoning in intelligence systems.  My current research applies this approach to several key areas of visual reasoning, including: 
 
