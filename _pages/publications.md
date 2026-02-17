@@ -17,7 +17,7 @@ author_profile: authors
 
 - Luyuan Xie, Tianyu Luan, Wenyuan Cai, Guochen Yan, Zhaoyu Chen, **Nan Xi**, Yuejian Fang, Qingni Shen, Zhonghai Wu, Junsong Yuan, *“dFLMoE: Decentralized Federated Learning via Mixture of Experts for Medical Data Analysis”*, in Proceedings of Computer Vision and Pattern Recognition (CVPR), 2025 [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Xie_dFLMoE_Decentralized_Federated_Learning_via_Mixture_of_Experts_for_Medical_CVPR_2025_paper.pdf) [[code]](https://openaccess.thecvf.com/content/CVPR2025/papers/Xie_dFLMoE_Decentralized_Federated_Learning_via_Mixture_of_Experts_for_Medical_CVPR_2025_paper.pdf)
 
-- Yisong Wang $$^ *$$, **Nan Xi** $$^ *$$ $$^ \dagger$$, Jingjing Meng, Junsong Yuan. *“Interaction-centric Spatio-Temporal Context Reasoning for Multi-person Video HOI Recognition”*. in European Conference on Computer Vision (ECCV), 2024 [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04769.pdf) [[code]](https://github.com/southnx/IcH-Vid-HOI)
+- Yisong Wang $$^ *$$, **Nan Xi** $$^ *$$ $$^ \dagger$$, Jingjing Meng, Junsong Yuan. *“Interaction-centric Spatio-Temporal Context Reasoning for Multi-person Video HOI Recognition”*. in European Conference on Computer Vision (ECCV), 2024 [[paper]](https://par.nsf.gov/servlets/purl/10573582) [[code]](https://github.com/southnx/IcH-Vid-HOI)
 
 - **Nan Xi**, Jingjing Meng, Junsong Yuan. *“Chain-of-Look Prompting for Verb-centric Surgical Triplet Recognition in Endoscopic Videos”*, in Proc. ACM International Conf. on Multimedia (ACM MM), 2023 [[paper]](https://par.nsf.gov/servlets/purl/10542741) [[code]](https://github.com/southnx/CoLSurgical)
 
