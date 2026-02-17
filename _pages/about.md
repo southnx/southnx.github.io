@@ -14,7 +14,7 @@ In addressing this essential question, I focus on harnessing visual and language
 
 - *Chain-of-Look (CoL)* visual reasoning for triplet recognition in surgical videos and open-set video human-object interaction detection: [[Verb-centric Surgical Video Chain-of-Look Reasoning]](https://par.nsf.gov/servlets/purl/10542741); [[Open-set Chain-of-Look Video Reasoning]](https://openaccess.thecvf.com/content/ICCV2023/papers/Xi_Open_Set_Video_HOI_detection_from_Action-Centric_Chain-of-Look_Prompting_ICCV_2023_paper.pdf); [[Chain-of-Look Spatial Reasoning for Surgical Instrument Counting]](https://github.com/rishi1134/CoLSR?tab=readme-ov-file)
   
-- *Tree-of-Looks (ToLs)* visual reasoning for surgical workflow analysis and surgical skill assessment: [[Tree-of-Looks Spatio-Temporal Context Reasoning]](https://cse.buffalo.edu/~jsyuan/papers/2024/ECCV2024_Nan_Xi.pdf)
+- *Tree-of-Looks (ToLs)* visual reasoning for surgical workflow analysis and surgical skill assessment: [[Tree-of-Looks Spatio-Temporal Context Reasoning]](https://par.nsf.gov/servlets/purl/10573582)
 
 I obtained Ph.D. in Computer Science and Engineering at University at Buffalo (UB) in 2025, where I am very fortunate work with Prof. [Junsong Yuan](https://cse.buffalo.edu/~jsyuan/index.html). Prior to UB, I obtained M.D. in Oncology and was trained as a physician-scientist in Molecular Oncology at Peking University. 
 
