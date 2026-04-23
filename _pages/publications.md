@@ -7,7 +7,7 @@ author_profile: authors
 
 # Selected Publications
 
-Full publications can be found through [Google Scholar](https://scholar.google.com.hk/citations?user=QLh4qlYAAAAJ&hl=en&oi=ao)
+Full publications can be found through my [Google Scholar profile.](https://scholar.google.com.hk/citations?user=QLh4qlYAAAAJ&hl=en&oi=ao)
 
 ($$*$$ Equal contribution; $$\dagger$$ Corresponding author) 
 
