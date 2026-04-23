@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: authors
 ---
-
-# Selected Publications
 
 Full publications can be found through my [Google Scholar profile.](https://scholar.google.com.hk/citations?user=QLh4qlYAAAAJ&hl=en&oi=ao)
 
