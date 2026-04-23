@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: authors
 ---
 
+# Selected Publications
+
+Full publications can be found through [Google Scholar](https://scholar.google.com.hk/citations?user=QLh4qlYAAAAJ&hl=en&oi=ao)
+
 ($$*$$ Equal contribution; $$\dagger$$ Corresponding author) 
 
 - Rishikesh Bhyri, Brian R Quaranto, Junsong Yuan, Peter C W Kim $$^ \dagger$$, **Nan Xi** $$^ \dagger$$, *"Chain-of-Look Spatial Reasoning for Dense Surgical Instrument Counting"*, in Proceedings of the IEEE/CVF winter conference on applications of computer vision (WACV), 2026 [[paper]](https://openaccess.thecvf.com/content/WACV2026/papers/Bhyri_Chain-of-Look_Spatial_Reasoning_for_Dense_Surgical_Instrument_Counting_WACV_2026_paper.pdf) [[code]](https://github.com/rishi1134/CoLSR)
