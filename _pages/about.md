@@ -22,26 +22,17 @@ I obtained Ph.D. in Computer Science and Engineering at University at Buffalo (U
 
 ## News
 
-- November 2025: One paper on visual reasoning is accepted to WACV 2026. 
-
+- April 2026: One paper is accepted to ICML 2026. 
+- November 2025: One paper on visual reasoning is accepted to WACV 2026.
+- July 2025: One paper is accepted to ICCV 2025.
 - June 2025: One paper is accepted to ACM MM 2025.
-
-- February 2025: One paper is accepted to ICCV 2025.
-
 - February 2025: One paper is accepted to CVPR 2025.
-  
 - January 2025: One paper is accepted to WWW 2025.
-
 - August 2024：Our research on visual reasoning is awarded by SONY research award program.
-  
 - July 2024: One paper is accepted to ECCV 2024.
-
 - February 2024: I'll start a resrach internship at Amazon this summer.
-
 - July 2023: One paper is accepted to ACM MM 2023.
-
 - July 2023: One paper is accepted to ICCV 2023.
-
 - June 2023: One paper is accepted to MICCAI 2023.
 
 ## Contact
