@@ -17,7 +17,7 @@ redirect_from:
   - With a first author publication “Interaction-centric Spatio-Temporal Context Reasoning for Multi-person Video HOI Recognition” on ECCV 2024
 
 - Xirui Teng (B.S. Computer Science, Beijing Jiaotong University)
-  - With two paper submissions on video reasoning to ICLR 2026 and CVPR 2026
+  - With two paper submissions to ECCV 2026 
 
 - Rishikesh Bhyri (M.S. Computer Science, University at Buffalo)
   - With a first author publication "Chain-of-Look Spatial Reasoning for Dense Surgical Instrument Counting" on WACV 2026
