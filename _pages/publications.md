@@ -9,6 +9,8 @@ Full publications can be found through my [Google Scholar profile.](https://scho
 
 ($$*$$ Equal contribution; $$\dagger$$ Corresponding author) 
 
+- Xirui Teng, Nan Xi $$^ \dagger$$,  Junsong Yuan. *“Latent Visual Diffusion Reasoning with Monte Carlo Tree Search”*. in European Conference on Computer Vision (ECCV), 2026
+
 - Guoyizhe Wei, Yang Jiao, Nan Xi, Zhishen Huang, Jingjing Meng, Rama Chellappa, Yan Gao, *"Pix2Key: Controllable Open-Vocabulary Retrieval with Semantic Decomposition and Self-Supervised Visual Dictionary Learning"*, in Forty-third International Conference on Machine Learning (ICML), 2026
 
 - Rishikesh Bhyri, Brian R Quaranto, Junsong Yuan, Peter C W Kim $$^ \dagger$$, Nan Xi $$^ \dagger$$, *"Chain-of-Look Spatial Reasoning for Dense Surgical Instrument Counting"*, in Proceedings of the IEEE/CVF winter conference on applications of computer vision (WACV), 2026 [[paper]](https://openaccess.thecvf.com/content/WACV2026/papers/Bhyri_Chain-of-Look_Spatial_Reasoning_for_Dense_Surgical_Instrument_Counting_WACV_2026_paper.pdf) [[code]](https://github.com/rishi1134/CoLSR)
