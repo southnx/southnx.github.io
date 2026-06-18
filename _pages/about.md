@@ -22,6 +22,7 @@ I obtained Ph.D. in Computer Science and Engineering at University at Buffalo (U
 
 ## News
 
+- June 2026: One paper is accepted to ECCV 2026. 
 - April 2026: One paper is accepted to ICML 2026. 
 - November 2025: One paper on visual reasoning is accepted to WACV 2026.
 - July 2025: One paper is accepted to ICCV 2025.
