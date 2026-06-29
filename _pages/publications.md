@@ -9,7 +9,7 @@ Full publications can be found through my [Google Scholar profile.](https://scho
 
 ($$*$$ Equal contribution; $$\dagger$$ Corresponding author) 
 
-- Xirui Teng, Nan Xi $$^ \dagger$$,  Junsong Yuan. *“Latent Visual Diffusion Reasoning with Monte Carlo Tree Search”*. in European Conference on Computer Vision (ECCV), 2026
+- Xirui Teng, Nan Xi $$^ \dagger$$,  Junsong Yuan. *“Latent Visual Diffusion Reasoning with Monte Carlo Tree Search”*. in European Conference on Computer Vision (ECCV), 2026 [[paper]](https://arxiv.org/pdf/2606.27988) 
 
 - Guoyizhe Wei, Yang Jiao, Nan Xi, Zhishen Huang, Jingjing Meng, Rama Chellappa, Yan Gao, *"Pix2Key: Controllable Open-Vocabulary Retrieval with Semantic Decomposition and Self-Supervised Visual Dictionary Learning"*, in Forty-third International Conference on Machine Learning (ICML), 2026
 
