@@ -8,9 +8,7 @@ redirect_from:
 ---
 
 **Teaching Assistant**
-- CSE 573 (Fall 2021) Computer Vision and Image Processing
-- CSE 191 (Spring 2022) Discrete Structures
-- CSE 573 (Fall 2022) Computer Vision and Image Processing
+- CMSC 630 (Fall 2026) Image Analysis
 
 **Mentoring**
 - Yisong Wang (B.S. Computer Science, Peking University --> M.S. Computer Science, ETH Zurich)  
